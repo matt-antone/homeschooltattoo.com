@@ -1,8 +1,8 @@
 ---
-title: An Essay on Walking
+title: X-wing Miniatures CR90 Tantive IV to Pheonix Squadron Conversion
 date: 2019-07-11T20:11:17.000+00:00
 type: blog
-author: Henry Thoreau
+author: Jumpinjammer
 hero: "/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
