@@ -17,10 +17,4 @@ My CR90 has seen better days. It's fallen off the shelf a couple of times. The s
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617829128/IMG_2624_he1pji.jpg)
 
-The sensor dish, dorsal and ventral turrets can be removed by carefully twisting them to the left or right until they are 90 degrees from their original position. Then just lift it out.
-
-![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617832515/IMG_2698_srjhwp.jpg)
-
-If you're asking me the Tantive IV was a diplomatic ship as opposed to the CR90's of the Phoenix Squadron. Their purpose was to wage war. So I took some measurements and then created turrets that look more like the battle ready TV versions of the CR90.
-
- 
+The dorsal and ventral turrets can be removed by slowly twisting them to the left or right. 
