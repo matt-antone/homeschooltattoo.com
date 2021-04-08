@@ -3,16 +3,18 @@ title: X-wing Miniatures CR90 Tantive IV to Pheonix Squadron Conversion
 date: 2019-07-11T20:11:17.000+00:00
 type: blog
 author: Jumpinjammer
-hero: https://res.cloudinary.com/homeschooltattoo/image/upload/v1617818261/45780688824_2a3237377c_b_vixord.jpg
+hero: https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2704_af1otd.jpg
 
 ---
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2704_af1otd.jpg)
 
 ## Background
 
-I'm really excited about the X-wing Miniatures Phoenix Cell Squadron Pack that was released this month. I've watched Rebels through a couple of times now and since then have been wanting to do a repaint of my CR90. I've never done a repaint to any of my X-wing Miniatures, so why not start with a repair, repaint and custom parts. What could go wrong?
+I'm really excited about the X-wing Miniatures Phoenix Cell Squadron Pack that was released this month. I've watched Rebels through a couple of times now and since then have been wanting to do a repaint of my CR90. So I decided to paint it like this:
 
-My CR90 has seen better days. It's fallen off the shelf a couple of times. The stand pegs broke off. And the paint was scratched a bit. It needed a lot of love.
+![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617818261/45780688824_2a3237377c_b_vixord.jpg)
+
+My CR90 has seen better days. It's fallen off the shelf a couple of times. The stand pegs broke off. And the paint was scratched a bit. It needed a lot of love. I've never done a repaint to any of my X-wing Miniatures, so why not start with a repair, repaint and custom parts. What could go wrong?
 
 ## Build
 
@@ -53,3 +55,7 @@ Painting was pretty straight forward. Some of the panels don't line up with my s
 Now put it all back together.
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617843862/IMG_2694_jpjmlc.jpg)
+
+![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2703_eqhdoz.jpg)
+
+![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844369/IMG_2702_c0umuo.jpg)
