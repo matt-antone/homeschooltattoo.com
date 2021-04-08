@@ -6,9 +6,9 @@ author: Jumpinjammer
 hero: https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2704_af1otd.jpg
 
 ---
-![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2704_af1otd.jpg)
-
 ## Background
+
+This is my first post I'm really stoked to get off my ass and share some of my work.
 
 I'm really excited about the X-wing Miniatures Phoenix Cell Squadron Pack that was released this month. I've watched Rebels through a couple of times now and since then have been wanting to do a repaint of my CR90. So I decided to paint it like this:
 
