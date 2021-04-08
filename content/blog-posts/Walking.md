@@ -59,3 +59,5 @@ Now put it all back together.
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2703_eqhdoz.jpg)
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844369/IMG_2702_c0umuo.jpg)
+
+![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2704_af1otd.jpg)
