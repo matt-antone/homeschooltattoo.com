@@ -15,6 +15,8 @@ My CR90 has seen better days. It's fallen off the shelf a couple of times. The s
 2. Slowly nudge and wiggle the parts you want taken off back and forth and you'll hear a light cracks. This is the glue breaking apart from the model.
 3. Once the part is loose enough you can pull it from the model
 
+The dorsal and ventral turrets can be removed by slowly twisting them to the left or right. Once they are 90 degrees from their start position, you should be able to pull them up and out. Your mileage may vary.
+
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617829128/IMG_2624_he1pji.jpg)
 
-The dorsal and ventral turrets can be removed by slowly twisting them to the left or right. 
+![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617832515/IMG_2698_srjhwp.jpg)
