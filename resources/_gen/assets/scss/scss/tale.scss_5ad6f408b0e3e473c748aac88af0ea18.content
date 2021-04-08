@@ -736,14 +736,10 @@ pre code {
 .post-hero {
   overflow: hidden;
   min-height: 300px;
-  height: 60vh;
+  height: auto;
   width: 100%;
-  margin: 0; }
-  .post-hero img {
-    min-width: 100%;
-    min-height: 100%;
-    margin-bottom: 0;
-    object-fit: cover; }
+  margin: 0;
+  position: relative; }
 
 .post__all-info {
   text-align: center;
@@ -825,10 +821,7 @@ pre code {
       max-width: 500px;
       margin: 0 auto 0.66rem auto; }
   .post-hero {
-    min-height: 600px;
-    height: 75vh; }
-    .post-hero img {
-      min-width: 100%; }
+    min-height: 600px; }
   .post__body {
     max-width: 800px;
     padding: 0 2rem; }
@@ -842,8 +835,6 @@ pre code {
     padding: 2.25rem; } }
 
 @media (min-width: 1440px) {
-  .post-hero {
-    height: 70vh; }
   .post__all-info {
     padding: 3rem 0; }
   .post__footer {
