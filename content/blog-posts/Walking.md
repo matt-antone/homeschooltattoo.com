@@ -56,8 +56,14 @@ Now put it all back together.
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617843862/IMG_2694_jpjmlc.jpg)
 
+## Quad Turbolasers
+
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2703_eqhdoz.jpg)
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844369/IMG_2702_c0umuo.jpg)
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2704_af1otd.jpg)
+
+So many missiles or torpedos if you're into that sort of thing
+
+![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617845326/IMG_2709_epfe3z.jpg)
