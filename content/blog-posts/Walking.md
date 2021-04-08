@@ -1,6 +1,6 @@
 ---
 title: X-wing Miniatures CR90 Tantive IV to Pheonix Squadron Conversion
-date: 2019-07-11T20:11:17.000+00:00
+date: 2019-07-12T01:11:17+00:00
 type: blog
 author: Jumpinjammer
 hero: https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2704_af1otd.jpg
