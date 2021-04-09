@@ -1,12 +1,12 @@
 ---
 title: X-wing Miniatures CR90 Tantive IV to Pheonix Squadron Conversion
-date: 2021-04-08T01:11:17+00:00
+date: 2021-04-08T01:11:17.000+00:00
 type: blog
 author: Jumpinjammer
 hero: https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844376/IMG_2704_af1otd.jpg
 slug: cr90-repaint
 aliases:
-- /blog-posts/walking/
+- "/blog-posts/walking/"
 
 ---
 ## Background
@@ -52,6 +52,8 @@ Painting was pretty straight forward. Some of the panels don't line up with my s
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844223/IMG_2638_s5lkdn.jpg)
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844250/IMG_2643_bfo9wn.jpg)
+
+I cut off the side turrets with an Xacto knife.
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844289/IMG_2666_ji3n5f.jpg)
 
