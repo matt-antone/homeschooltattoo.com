@@ -53,7 +53,7 @@ Painting was pretty straight forward. Some of the panels don't line up with my s
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844250/IMG_2643_bfo9wn.jpg)
 
-I cut off the side turrets with an Xacto knife.
+I cut off the side turrets with an X-acto knife.
 
 ![](https://res.cloudinary.com/homeschooltattoo/image/upload/v1617844289/IMG_2666_ji3n5f.jpg)
 
