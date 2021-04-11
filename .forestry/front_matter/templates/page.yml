@@ -25,3 +25,5 @@ fields:
     schema:
       format: markdown
   label: Description
+pages:
+- content/hammerhead-red-1.md
