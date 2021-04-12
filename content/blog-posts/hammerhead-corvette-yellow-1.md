@@ -1,6 +1,7 @@
 +++
 author = "Jumpinjammer"
 date = 2021-04-11T07:00:00Z
+draft = true
 hero = "https://res.cloudinary.com/homeschooltattoo/image/upload/v1618164128/IMG_2823_mtggfx.jpg"
 title = "Hammerhead Corvette Yellow 1"
 type = "blog"

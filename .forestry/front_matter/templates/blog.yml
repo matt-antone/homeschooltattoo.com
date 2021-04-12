@@ -32,7 +32,12 @@ fields:
   label: Hero Image
 pages:
 - content/blog-posts/hammerhead-corvette-orange-1.md
+- content/blog-posts/hammerhead-corvette-orange-1.md
+- content/blog-posts/hammerhead-corvette-orange-2.md
 - content/blog-posts/hammerhead-corvette-orange-2.md
 - content/blog-posts/hammerhead-corvette-red-2.md
+- content/blog-posts/hammerhead-corvette-red-2.md
 - content/blog-posts/hammerhead-corvette-yellow-1.md
+- content/blog-posts/hammerhead-corvette-yellow-1.md
+- content/blog-posts/hammerhead-red-1.md
 - content/blog-posts/hammerhead-red-1.md
