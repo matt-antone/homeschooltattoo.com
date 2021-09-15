@@ -1,7 +1,6 @@
 +++
 author = "Jumpinjammer"
 date = 2021-09-15T07:00:00Z
-draft = true
 hero = "https://res.cloudinary.com/homeschooltattoo/image/upload/v1631725071/IMG_3660_fxvtpl.jpg"
 title = "NPC Minis"
 type = "blog"
