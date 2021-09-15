@@ -31,6 +31,7 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/blog-posts/character-minis.md
 - content/blog-posts/hammerhead-corvette-orange-1.md
 - content/blog-posts/hammerhead-corvette-orange-1.md
 - content/blog-posts/hammerhead-corvette-orange-2.md
